@@ -1,4 +1,5 @@
 #!/usr/bin/env groovy
 node {
   echo "My 1st Pipeline through jenkinsfile!"
+  echo "want to see SCM pool magic!"
 }
